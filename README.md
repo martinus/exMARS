@@ -1,4 +1,4 @@
-exMARS  -- Exhaust Memory Array Redcode Simulator
+# exMARS - Exhaust Memory Array Redcode Simulator
 
 exMARS is a redcode simulator, just like Exhaust and pMARS. In fact, I
 have shamelessly taken sourcecode from both  [pMARS](http://www.koth.org/pmars/), [exhaust](http://www.cs.helsinki.fi/u/jpihlaja/exhaust/exhaust.html), some
